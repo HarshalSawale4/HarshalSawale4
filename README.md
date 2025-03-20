@@ -7,7 +7,7 @@ Hello! I'm **Harshal V. Sawale**, an aspiring software engineer with a strong pa
 
 ## 🛠️ **Tech Stack**
 - **Languages**: `C` | `C++` | `JavaScript`
-- **Web Technologies**: `HTML` | `CSS`
+- **Web Technologies**: `HTML` | `CSS` | `JavaScript`
 - **Tools & Platforms**: Git, GitHub, Visual Studio Code, Google Chrome DevTools
 
 ## 🔭 **Featured Projects**
