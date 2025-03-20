@@ -25,7 +25,7 @@ Hello! I'm **Harshal V. Sawale**, an aspiring software engineer with a strong pa
 
 ## 🤝 **Connect With Me**
 - [**GitHub**](https://github.com/HarshalSawale4)
-- [**LinkedIn**](https://www.linkedin.com/in/harshal-sawale-b561662a9)
+- [**LinkedIn**](https://www.linkedin.com/in/harshal-sawale-b561662a9/)
 - [**Twitter**](https://x.com/TechHarshal?s=09)
 - [**Email**](mailto:harshaltech6@gmail.com)
 
