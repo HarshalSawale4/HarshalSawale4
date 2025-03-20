@@ -28,6 +28,7 @@ Hello! I'm **Harshal V. Sawale**, an aspiring software engineer with a strong pa
 - [**LinkedIn**](https://www.linkedin.com/in/harshal-sawale-b561662a9/)
 - [**Twitter**](https://x.com/TechHarshal?s=09)
 - [**Email**](mailto:harshaltech6@gmail.com)
+- [**Instagram**](https://www.instagram.com/im_harshal4__?igsh=Ymo3dHNnbGYzMXhj)
 
 Feel free to reach out to me if you want to collaborate, share knowledge, or just have a good tech talk! 🚀
 
