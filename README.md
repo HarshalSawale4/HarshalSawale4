@@ -1,5 +1,5 @@
 # Harshal V. Sawale
-### Frontend Developer | Learning & Contributing to Open Source
+### FullStack Web Developer | Learning & Contributing to Open Source
 
 Hello! I'm **Harshal V. Sawale**, an aspiring software engineer with a strong passion for **Frontend Development** and exploring the world of **Open Source**. Currently focused on building skills in web technologies and contributing to the open-source ecosystem.
 
