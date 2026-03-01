@@ -6,7 +6,7 @@ Hello! I'm **Harshal V. Sawale**, an aspiring software engineer with a strong pa
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
 
 ## 🛠️ **Tech Stack**
-- **Languages**: `C` | `C++` | `JavaScript`
+- **Languages**: `C` | `C++` | `Java` | `JavaScript`
 - **Web Technologies**: `HTML` | `CSS` | `JavaScript`
 - **Tools & Platforms**: Git, GitHub, Visual Studio Code, Google Chrome DevTools
 
